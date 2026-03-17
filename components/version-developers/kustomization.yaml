@@ -3,4 +3,4 @@ kind: Component
 images:
   - name: hudakmshs/ambulance-ufe
     newName: hudakmshs/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
-    newTag: main.20260310.1435 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+    newTag: main.20260317.1348 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
