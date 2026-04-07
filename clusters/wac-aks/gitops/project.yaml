@@ -1,0 +1,12 @@
+apiVersion: wac-fiit.github.io/v1alpha1
+kind: Project
+metadata:
+  name: cv3-ambulance-wl
+spec:
+  title: "Zoznam čakajúcich Cvičenie 3"
+  description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
+  authors: "Miro Hudak" # Zadajte mená autorov
+  azureLink: "https://cv3-ambulance.azurewebsites.net/"
+  frontendRepoUrl: "https://github.com/wac-fiit/cv3-ambulance-ufe"
+  backendRepoUrl: "https://github.com/wac-fiit/cv3-ambulance-webapi"
+  gitopsRepoUrl: "https://github.com/wac-fiit/cv3-ambulance-gitops"
