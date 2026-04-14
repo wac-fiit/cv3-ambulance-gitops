@@ -13,12 +13,6 @@ spec:
         - path:
             type: PathPrefix
             value: /cv3-api
-      filters:
-        - type: URLRewrite
-          urlRewrite:
-            path:
-              type: ReplacePrefixMatch
-              replacePrefixMatch: /api
       backendRefs:
         - group: ""
           kind: Service

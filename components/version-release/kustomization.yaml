@@ -6,4 +6,4 @@ images:
     newTag: 1.1.0 #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
   - name: hudakmshs/ambulance-wl-webapi
     newName: hudakmshs/ambulance-wl-webapi
-    newTag: 1.0.1
+    newTag: 1.1.0
