@@ -6,4 +6,4 @@ images:
     newTag: main.20260407.1251 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
   - name: hudakmshs/ambulance-wl-webapi
     newName: hudakmshs/ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
-    newTag: main.20260407.1246 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+    newTag: main.20260414.1307 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
