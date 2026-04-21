@@ -14,6 +14,7 @@ resources:
   - ../../../apps/cv3-ambulance-ufe
   - ../../../apps/cv3-ambulance-webapi
   - ../../../apps/mongo-express
+  - ../../../apps/http-echo
 
 patches:
   - path: patches/ambulance-webapi.service.yaml
